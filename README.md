@@ -1,2 +1,30 @@
-# c2c9a7e5-social-media-content-calendar-
-Comprehensive Notion workspace for social media managers and content creators planning multi-platform content. Features a weekly content calendar with platform-specific views for Instagram, Twitter, LinkedIn, TikTok, and Pinterest. Includes a content idea bank with approval workflow, brand asset library with usage tracking, hashtag performance data
+# Social Media Content Calendar Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI3cv26HaQAg889rKcZb0x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI3cv26HaQAg889rKcZb0x)
+- [Buy on Whop](https://whop.com/social-media-content-calendar-notion-template)
+
